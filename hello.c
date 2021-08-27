@@ -12,7 +12,7 @@
 
  int main(int argc, char **argv) {
 
-  printf("Gage Witcig\n");
+  printf("Gage Witcig!!!!!!\nComputer Science Major");
 
   return 0;
 
